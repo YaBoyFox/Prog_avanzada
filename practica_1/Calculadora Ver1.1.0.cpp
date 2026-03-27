@@ -7,7 +7,7 @@ int main() {
     char operacion;
     char opcion;
 
-    cout << "Calculadora en C++ (2 a 6 numeros)" << endl;
+    cout << "Calculadora (2 a 6 numeros)" << endl;
 
     // Pedir los primeros 2 números (obligatorios)
     cout << "Ingresa el numero 1: ";
