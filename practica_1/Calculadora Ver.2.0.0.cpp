@@ -24,7 +24,7 @@ int main() {
     char opcion;
     char tipo;
 
-    cout << "Calculadora en C++ (con raiz y fracciones)" << endl;
+    cout << "Calculadora (con raiz y fracciones)" << endl;
 
     // Número 1
     cout << "Numero 1 (n = normal, f = fraccion): ";
